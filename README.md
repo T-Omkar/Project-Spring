@@ -11,3 +11,6 @@ The project contains 7 packages namely:-
 ## HOW TO RUN
 1. Create a schema/database named > **project**
 2. Run the > **Application.java** file
+
+## OUTPUT
+In the output folder you can find screenshots of postman of all 5 endpoints
