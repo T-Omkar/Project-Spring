@@ -9,5 +9,5 @@ The project contains 7 packages namely:-
 7. validation
 
 ## HOW TO RUN
-1. Create a schema/database named **project**
-2. Run the **Application.java** file
+1. Create a schema/database named > **project**
+2. Run the > **Application.java** file
