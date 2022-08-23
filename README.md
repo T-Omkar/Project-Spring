@@ -7,3 +7,5 @@ The project contains 7 packages namely:-
 5. repository
 6. service
 7. validation
+
+## HOW TO RUN
